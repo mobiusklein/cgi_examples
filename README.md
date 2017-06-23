@@ -29,4 +29,4 @@ Some brief examples:
 3. [Serving JSON](cgi-bin/serving_json.py)
 4. [Handling Query Strings](cgi-bin/query_strings.py)
 5. [Posting Forms](cgi-bin/handling_post.py)
-
+6. [Serving Download Files](/cgi-bin/serving_file_downloads.py)
